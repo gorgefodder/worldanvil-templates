@@ -14,9 +14,38 @@ fields:
     label: Name
     placeholder: Character McCharacterface
     required: true
-  description:
-    input: text
-    label: Description
+  speciesarchetype:
+    input: string
+    label: Species/Archetype
+    required: true
+  career:
+    input: string
+    label: Career
+    required: true
+  player:
+    input: string
+    label: Player
+    required: true
+  soak:
+    input: integer
+    label: Soak
+    required: true
+  wound_threshold:
+    input: integer
+    label: Wound Threshold
+    required: true
+  strain_threshold:
+    input: integer
+    label: Strain Threshold
+    required: true
+  melee_defense:
+    input: integer
+    label: Melee Defense
+    required: true
+  ranged_defense:
+    input: integer
+    label: Ranged Defense
+    required: true
   bra:
     input: integer
     label: Brawn
@@ -52,26 +81,6 @@ fields:
     label: Presence
     min: 1
     max: 5
-    required: true
-  soak:
-    input: integer
-    label: Soak
-    required: true
-  wound_threshold:
-    input: integer
-    label: Wound Threshold
-    required: true
-  strain_threshold:
-    input: integer
-    label: Strain Threshold
-    required: true
-  melee_defense:
-    input: integer
-    label: Melee Defense
-    required: true
-  ranged_defense:
-    input: integer
-    label: Ranged Defense
     required: true
   skills:
     input: string
