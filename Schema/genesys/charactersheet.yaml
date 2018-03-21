@@ -90,12 +90,153 @@ fields:
     input: checkbox
     label: Career?
     required: false
-  wil:
+  alchemy-lvl:
     input: integer
     label: Alchemy
     min: 0
     max: 5
     required: false
+  astrocartography-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  astrocartography-career:
+    input: checkbox
+    label: Career?
+    required: false
+  astrocartography-lvl:
+    input: integer
+    label: Astrocartography
+    min: 0
+    max: 5
+    required: false
+  athletics-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  athletics-career:
+    input: checkbox
+    label: Career?
+    required: false
+  athletics-lvl:
+    input: integer
+    label: Athletics
+    min: 0
+    max: 5
+    required: false 
+  computers-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  computers-career:
+    input: checkbox
+    label: Career?
+    required: false
+  computers-lvl:
+    input: integer
+    label: Computers
+    min: 0
+    max: 5
+    required: false
+    cool-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  cool-career:
+    input: checkbox
+    label: Career?
+    required: false
+  cool-lvl:
+    input: integer
+    label: cool
+    min: 0
+    max: 5
+    required: false
+  coordination-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  coordination-career:
+    input: checkbox
+    label: Career?
+    required: false
+  coordination-lvl:
+    input: integer
+    label: Coordination
+    min: 0
+    max: 5
+    required: false
+  discipline-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  discipline-career:
+    input: checkbox
+    label: Career?
+    required: false
+  discipline-lvl:
+    input: integer
+    label: Discipline
+    min: 0
+    max: 5
+    required: false
+  driving-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  driving-career:
+    input: checkbox
+    label: Career?
+    required: false
+  driving-lvl:
+    input: integer
+    label: Driving
+    min: 0
+    max: 5
+    required: false
+  mechanics-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  mechanics-career:
+    input: checkbox
+    label: Career?
+    required: false
+  mechanics-lvl:
+    input: integer
+    label: Mechanics
+    min: 0
+    max: 5
+    required: false
+  medicine-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  medicine-career:
+    input: checkbox
+    label: Career?
+    required: false
+  medicine-lvl:
+    input: integer
+    label: Medicine
+    min: 0
+    max: 5
+    required: false
+  operating-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  operating-career:
+    input: checkbox
+    label: Career?
+    required: false
+  operating-lvl:
+    input: integer
+    label: Operating
+    min: 0
+    max: 5
+    required: false
+      
   talents:
     input: string
     label: Talents
