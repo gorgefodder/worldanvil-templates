@@ -236,8 +236,447 @@ fields:
     min: 0
     max: 5
     required: false
-      
-  talents:
+  piloting-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  piloting-career:
+    input: checkbox
+    label: Career?
+    required: false
+  piloting-lvl:
+    input: integer
+    label: Piloting
+    min: 0
+    max: 5
+    required: false
+  resilience-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  resilience-career:
+    input: checkbox
+    label: Career?
+    required: false
+  resilience-lvl:
+    input: integer
+    label: Resilience
+    min: 0
+    max: 5
+    required: false
+  riding-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  riding-career:
+    input: checkbox
+    label: Career?
+    required: false
+  riding-lvl:
+    input: integer
+    label: Riding
+    min: 0
+    max: 5
+    required: false
+  skullduggery-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  skullduggery-career:
+    input: checkbox
+    label: Career?
+    required: false
+  skullduggery-lvl:
+    input: integer
+    label: Skullduggery
+    min: 0
+    max: 5
+    required: false
+  stealth-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  stealth-career:
+    input: checkbox
+    label: Career?
+    required: false
+  stealth-lvl:
+    input: integer
+    label: Stealth
+    min: 0
+    max: 5
+    required: false
+  stealth-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  stealth-career:
+    input: checkbox
+    label: Career?
+    required: false
+  stealth-lvl:
+    input: integer
+    label: Stealth
+    min: 0
+    max: 5
+    required: false
+  streetwise-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  streetwise-career:
+    input: checkbox
+    label: Career?
+    required: false
+  streetwise-lvl:
+    input: integer
+    label: Streetwise
+    min: 0
+    max: 5
+    required: false
+  survival-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  survival-career:
+    input: checkbox
+    label: Career?
+    required: false
+  survival-lvl:
+    input: integer
+    label: Survival
+    min: 0
+    max: 5
+    required: false
+  vigilance-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  vigilance-career:
+    input: checkbox
+    label: Career?
+    required: false
+  vigilance-lvl:
+    input: integer
+    label: Vigilance
+    min: 0
+    max: 5
+    required: false
+  arcana-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  arcana-career:
+    input: checkbox
+    label: Career?
+    required: false
+  arcana-lvl:
+    input: integer
+    label: Arcana
+    min: 0
+    max: 5
+    required: false
+  divine-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  divine-career:
+    input: checkbox
+    label: Career?
+    required: false
+  divine-lvl:
+    input: integer
+    label: Divine
+    min: 0
+    max: 5
+    required: false
+  primal-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  primal-career:
+    input: checkbox
+    label: Career?
+    required: false
+  primal-lvl:
+    input: integer
+    label: Primal
+    min: 0
+    max: 5
+    required: false
+  brawl-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  brawl-career:
+    input: checkbox
+    label: Career?
+    required: false
+  brawl-lvl:
+    input: integer
+    label: Brawl
+    min: 0
+    max: 5
+    required: false
+  gunnery-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  gunnery-career:
+    input: checkbox
+    label: Career?
+    required: false
+  gunnery-lvl:
+    input: integer
+    label: Gunnery
+    min: 0
+    max: 5
+    required: false
+  melee-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  melee-career:
+    input: checkbox
+    label: Career?
+    required: false
+  melee-lvl:
+    input: integer
+    label: Melee
+    min: 0
+    max: 5
+    required: false
+  melee-h-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  melee-h-career:
+    input: checkbox
+    label: Career?
+    required: false
+  melee-h-lvl:
+    input: integer
+    label: Melee-heavy
+    min: 0
+    max: 5
+    required: false
+  melee-l-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  melee-l-career:
+    input: checkbox
+    label: Career?
+    required: false
+  melee-l-lvl:
+    input: integer
+    label: Melee-light
+    min: 0
+    max: 5
+    required: false
+  ranged-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  ranged-career:
+    input: checkbox
+    label: Career?
+    required: false
+  ranged-lvl:
+    input: integer
+    label: Ranged
+    min: 0
+    max: 5
+    required: false
+  ranged-h-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  ranged-h-career:
+    input: checkbox
+    label: Career?
+    required: false
+  ranged-h-lvl:
+    input: integer
+    label: Ranged-heavy
+    min: 0
+    max: 5
+    required: false
+  ranged-l-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  ranged-l-career:
+    input: checkbox
+    label: Career?
+    required: false
+  ranged-l-lvl:
+    input: integer
+    label: Ranged-light
+    min: 0
+    max: 5
+    required: false
+  talents:charm-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  charm-career:
+    input: checkbox
+    label: Career?
+    required: false
+  charm-lvl:
+    input: integer
+    label: Charm
+    min: 0
+    max: 5
+    required: false
+  coercion-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  coercion-career:
+    input: checkbox
+    label: Career?
+    required: false
+  coercion-lvl:
+    input: integer
+    label: Coercion
+    min: 0
+    max: 5
+    required: false
+  deception-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  deception-career:
+    input: checkbox
+    label: Career?
+    required: false
+  deception-lvl:
+    input: integer
+    label: Deception
+    min: 0
+    max: 5
+    required: false
+  leadership-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  leadership-career:
+    input: checkbox
+    label: Career?
+    required: false
+  leadership-lvl:
+    input: integer
+    label: Leadership
+    min: 0
+    max: 5
+    required: false
+  negotiation-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  negotiation-career:
+    input: checkbox
+    label: Career?
+    required: false
+  negotiation-lvl:
+    input: integer
+    label: Negotiation
+    min: 0
+    max: 5
+    required: false
+  knowledge-type
+    input:text
+    label:Knowledge
+    required:false
+  knowledge-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  knowledge-career:
+    input: checkbox
+    label: Career?
+    required: false
+  knowledge-lvl:
+    input: integer
+    label: knowledge
+    min: 0
+    max: 5
+    required: false
+  knowledge-1-type
+    input:text
+    label:knowledge-1
+    required:false
+  knowledge-1-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  knowledge-1-career:
+    input: checkbox
+    label: Career?
+    required: false
+  knowledge-1-lvl:
+    input: integer
+    label: Knowledge
+    min: 0
+    max: 5
+    required: false
+  knowledge-2-type
+    input:text
+    label:knowledge-2
+    required:false
+  knowledge-2-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  knowledge-2-career:
+    input: checkbox
+    label: Career?
+    required: false
+  knowledge-2-lvl:
+    input: integer
+    label: Knowledge
+    min: 0
+    max: 5
+    required: false
+  knowledge-3-type
+    input:text
+    label:knowledge-3
+    required:false
+  knowledge-3-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  knowledge-3-career:
+    input: checkbox
+    label: Career?
+    required: false
+  knowledge-3-lvl:
+    input: integer
+    label: Knowledge
+    min: 0
+    max: 5
+    required: false
+  knowledge-4-type
+    input:text
+    label:knowledge-4
+    required:false
+  knowledge-4-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  knowledge-4-career:
+    input: checkbox
+    label: Career?
+    required: false
+  knowledge-4-lvl:
+    input: integer
+    label: Knowledge
+    min: 0
+    max: 5
+    required: false
+  
     input: string
     label: Talents
     required: false
