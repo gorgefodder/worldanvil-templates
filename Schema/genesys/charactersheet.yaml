@@ -82,10 +82,20 @@ fields:
     min: 1
     max: 5
     required: true
-  skills:
-    input: string
-    label: Skills
-    required: true
+  alchemy-setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  alchemy-career:
+    input: checkbox
+    label: Career?
+    required: false
+  wil:
+    input: integer
+    label: Alchemy
+    min: 0
+    max: 5
+    required: false
   talents:
     input: string
     label: Talents
