@@ -587,9 +587,9 @@ fields:
     max: 5
     required: false
   knowledge-school:
-    input:text
-    label:Knowledge
-    required:false
+    input: text
+    label: knowledge
+    required: false
   knowledge-setting:
     input: checkbox
     label: Setting?
@@ -605,9 +605,9 @@ fields:
     max: 5
     required: false
   knowledge-1-school:
-    input:text
-    label:knowledge-1
-    required:false
+    input: text
+    label: knowledge-1
+    required: false
   knowledge-1-setting:
     input: checkbox
     label: Setting?
@@ -623,9 +623,9 @@ fields:
     max: 5
     required: false
   knowledge-2-school:
-    input:text
-    label:knowledge-2
-    required:false
+    input: text
+    label: knowledge-2
+    required: false
   knowledge-2-setting:
     input: checkbox
     label: Setting?
@@ -641,9 +641,9 @@ fields:
     max: 5
     required: false
   knowledge-3-school:
-    input:text
-    label:knowledge-3
-    required:false
+    input: text
+    label: knowledge-3
+    required: false
   knowledge-3-setting:
     input: checkbox
     label: Setting?
@@ -659,9 +659,9 @@ fields:
     max: 5
     required: false
   knowledge-4-school:
-    input:text
-    label:knowledge-4
-    required:false
+    input: text
+    label: knowledge-4
+    required: false
   knowledge-4-setting:
     input: checkbox
     label: Setting?
