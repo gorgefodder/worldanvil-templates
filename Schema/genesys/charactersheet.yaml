@@ -14,9 +14,9 @@ fields:
     label: Name
     placeholder: Character McCharacterface
     required: true
-  speciesarchetype:
+  speciesarcheschool:
     input: string
-    label: Species/Archetype
+    label: Species/Archeschool
     required: true
   career:
     input: string
@@ -586,7 +586,7 @@ fields:
     min: 0
     max: 5
     required: false
-  knowledge-type
+  knowledge-school
     input:text
     label:Knowledge
     required:false
@@ -604,7 +604,7 @@ fields:
     min: 0
     max: 5
     required: false
-  knowledge-1-type
+  knowledge-1-school
     input:text
     label:knowledge-1
     required:false
@@ -622,7 +622,7 @@ fields:
     min: 0
     max: 5
     required: false
-  knowledge-2-type
+  knowledge-2-school
     input:text
     label:knowledge-2
     required:false
@@ -640,7 +640,7 @@ fields:
     min: 0
     max: 5
     required: false
-  knowledge-3-type
+  knowledge-3-school
     input:text
     label:knowledge-3
     required:false
@@ -658,7 +658,7 @@ fields:
     min: 0
     max: 5
     required: false
-  knowledge-4-type
+  knowledge-4-school
     input:text
     label:knowledge-4
     required:false
