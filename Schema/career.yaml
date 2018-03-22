@@ -1,0 +1,33 @@
+version: 0.1
+system: genesys
+author:
+  username: gorgefodder
+  email: k.weavill@gmail.com
+unique_reference: career-spec
+name: Career
+description: A Genesys block for laying out a Career for characcter building.
+table: true
+fields:
+  name:
+    input: string
+    description: Career Name
+    label: Career Name
+    placeholder: Banana Wizard
+    required: true
+  description:
+    input: text
+    description: A description of the career.
+    label: Description
+    placeholder: A Wizard who specialises in Banana magic.
+    required: true
+  skills
+    input: text
+    description: List of Career Skills
+    label: Career Skills
+    placeholder: Arcane, Bananas, Skullduggery
+    required: true
+  special_abilities:
+    input: text
+    render: list
+    description: Abilities unique to this archetype. Extra skills, unique powers, etc... Each line is a separate ability. Use '|' to ability name from ability description.
+    label: Special Abilities
