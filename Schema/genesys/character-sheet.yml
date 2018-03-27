@@ -146,7 +146,7 @@ fields:
     min: 0
     max: 5
     required: false
-    cool_setting:
+  cool_setting:
     input: checkbox
     label: Setting?
     required: false
