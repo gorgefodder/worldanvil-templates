@@ -244,6 +244,20 @@ fields:
     min: 0
     max: 5
     required: false
+  perception_setting:
+    input: checkbox
+    label: Setting?
+    required: false
+  perception_career:
+    input: checkbox
+    label: Career?
+    required: false
+  perception_lvl:
+    input: integer
+    label: Piloting
+    min: 0
+    max: 5
+    required: false
   piloting_setting:
     input: checkbox
     label: Setting?
