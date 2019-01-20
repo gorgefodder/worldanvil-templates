@@ -92,7 +92,7 @@ fields:
     required: false
   alchemy_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   alchemy_career:
     input: checkbox
@@ -106,7 +106,7 @@ fields:
     required: false
   astrocartography_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   astrocartography_career:
     input: checkbox
@@ -120,7 +120,7 @@ fields:
     required: false
   athletics_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   athletics_career:
     input: checkbox
@@ -134,7 +134,7 @@ fields:
     required: false 
   computers_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   computers_career:
     input: checkbox
@@ -148,7 +148,7 @@ fields:
     required: false
   cool_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   cool_career:
     input: checkbox
@@ -162,7 +162,7 @@ fields:
     required: false
   coordination_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   coordination_career:
     input: checkbox
@@ -176,7 +176,7 @@ fields:
     required: false
   discipline_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   discipline_career:
     input: checkbox
@@ -190,7 +190,7 @@ fields:
     required: false
   driving_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   driving_career:
     input: checkbox
@@ -204,7 +204,7 @@ fields:
     required: false
   mechanics_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   mechanics_career:
     input: checkbox
@@ -218,7 +218,7 @@ fields:
     required: false
   medicine_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   medicine_career:
     input: checkbox
@@ -232,7 +232,7 @@ fields:
     required: false
   operating_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   operating_career:
     input: checkbox
@@ -246,7 +246,7 @@ fields:
     required: false
   perception_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   perception_career:
     input: checkbox
@@ -260,7 +260,7 @@ fields:
     required: false
   piloting_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   piloting_career:
     input: checkbox
@@ -274,7 +274,7 @@ fields:
     required: false
   resilience_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   resilience_career:
     input: checkbox
@@ -288,7 +288,7 @@ fields:
     required: false
   riding_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   riding_career:
     input: checkbox
@@ -302,7 +302,7 @@ fields:
     required: false
   skullduggery_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   skullduggery_career:
     input: checkbox
@@ -316,7 +316,7 @@ fields:
     required: false
   stealth_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   stealth_career:
     input: checkbox
@@ -330,7 +330,7 @@ fields:
     required: false
   stealth_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   stealth_career:
     input: checkbox
@@ -344,7 +344,7 @@ fields:
     required: false
   streetwise_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   streetwise_career:
     input: checkbox
@@ -358,7 +358,7 @@ fields:
     required: false
   survival_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   survival_career:
     input: checkbox
@@ -372,7 +372,7 @@ fields:
     required: false
   vigilance_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   vigilance_career:
     input: checkbox
@@ -386,7 +386,7 @@ fields:
     required: false
   arcana_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   arcana_career:
     input: checkbox
@@ -400,7 +400,7 @@ fields:
     required: false
   divine_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   divine_career:
     input: checkbox
@@ -414,7 +414,7 @@ fields:
     required: false
   primal_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   primal_career:
     input: checkbox
@@ -428,7 +428,7 @@ fields:
     required: false
   brawl_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   brawl_career:
     input: checkbox
@@ -442,7 +442,7 @@ fields:
     required: false
   gunnery_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   gunnery_career:
     input: checkbox
@@ -456,7 +456,7 @@ fields:
     required: false
   melee_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   melee_career:
     input: checkbox
@@ -470,7 +470,7 @@ fields:
     required: false
   melee_h_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   melee_h_career:
     input: checkbox
@@ -484,7 +484,7 @@ fields:
     required: false
   melee_l_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   melee_l_career:
     input: checkbox
@@ -498,7 +498,7 @@ fields:
     required: false
   ranged_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   ranged_career:
     input: checkbox
@@ -512,7 +512,7 @@ fields:
     required: false
   ranged_h_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   ranged_h_career:
     input: checkbox
@@ -526,7 +526,7 @@ fields:
     required: false
   ranged_l_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   ranged_l_career:
     input: checkbox
@@ -540,7 +540,7 @@ fields:
     required: false
   charm_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   charm_career:
     input: checkbox
@@ -554,7 +554,7 @@ fields:
     required: false
   coercion_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   coercion_career:
     input: checkbox
@@ -568,7 +568,7 @@ fields:
     required: false
   deception_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   deception_career:
     input: checkbox
@@ -582,7 +582,7 @@ fields:
     required: false
   leadership_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   leadership_career:
     input: checkbox
@@ -596,7 +596,7 @@ fields:
     required: false
   negotiation_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   negotiation_career:
     input: checkbox
@@ -614,7 +614,7 @@ fields:
     required: false
   knowledge_1_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   knowledge_1_career:
     input: checkbox
@@ -632,7 +632,7 @@ fields:
     required: false
   knowledge_2_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   knowledge_2_career:
     input: checkbox
@@ -650,7 +650,7 @@ fields:
     required: false
   knowledge_3_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   knowledge_3_career:
     input: checkbox
@@ -668,7 +668,7 @@ fields:
     required: false
   custom_1_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   custom_1_career:
     input: checkbox
@@ -684,7 +684,7 @@ fields:
     required: false
   custom_2_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   custom_2_career:
     input: checkbox
@@ -700,7 +700,7 @@ fields:
     required: false
   custom_3_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   custom_3_career:
     input: checkbox
@@ -716,7 +716,7 @@ fields:
     required: false
   custom_4_setting:
     input: checkbox
-    label: Setting?
+    label: Setting specific Skill?
     required: false
   custom_4_career:
     input: checkbox
@@ -728,7 +728,7 @@ fields:
     required: false
   talents:
     input: string
-    label: Talents
+    label: Talent List
     required: false
   abilities:
     input: text
