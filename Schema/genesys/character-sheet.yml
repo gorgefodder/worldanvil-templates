@@ -38,6 +38,7 @@ fields:
     input: integer
     label: Current Wounds
     required: false
+    trackable: true
   strain_threshold:
     input: integer
     label: Strain Threshold
@@ -46,6 +47,7 @@ fields:
     input: integer
     label: Current Strain
     required: false
+    trackable: true
   melee_defense:
     input: integer
     label: Melee Defense
@@ -839,3 +841,4 @@ fields:
     input: integer
     label: Available XP
     required: false
+    trackable: true
